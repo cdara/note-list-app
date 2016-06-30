@@ -1,0 +1,70 @@
+body {
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-right: 25px;
+    background-color: #FFFACD;
+    background-image: url('../images/fullpage3.jpg');
+    background-size: 100%;
+    font-family: Tw Cen MT;
+    font-size: 16px;
+}
+h1 {
+    font-family: Tw Cen MT;	
+    font-size: 50px;
+}
+h2 {
+    font-family: Tw Cen MT;
+    font-size: 30px;
+}
+.createDiv {
+    box-shadow: 10px 10px 5px #444;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    float: right;
+    width: 700px;
+    background-color: #ffffb3;
+    background-size: 100%;
+}
+#noteInfo {
+    box-shadow: 10px 10px 5px #444;
+    border-radius: 40px;
+    float: right;
+    width: 700px;
+    background: url('../images/notedetails.png');
+}
+#detialsDelBtn {
+    float: right;
+    margin: 20px;
+}
+.listDiv {
+    padding: 10px;
+    border-radius: 5px;
+    float: left;
+    width: 50%;
+    background-color: #d3d3d3;
+    box-shadow: 10px 15px 10px #999999;
+}
+#crtBtn {
+    float: left;
+    margin: 20px;
+}
+#newNote {
+    display: none;
+}
+p {
+    
+    margin-left: 50px;
+    margin-top: 20px;*/
+    word-wrap: break-word;
+    font-family: courier;
+    font-size: 16px;
+    font-weight: bold;    
+}
+span {
+color: red;
+	font-weight: bold;
+	font-family: Lucida Calligraphy;
+
+}
+
+
